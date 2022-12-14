@@ -197,7 +197,7 @@ footer {
 
 /* Small-buttons will also have 5px of space between the border and the content. */
 .booking-page .small-button {
-    padding: auto 2.5px;
+    padding: 5px;
 }
 
 /* items tagged with .top-margin will have 24 px of space above, and 12px of space below. */
